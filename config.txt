@@ -1,0 +1,7 @@
+runways=6
+gates=10
+simulationTime=500
+arrivalRate=0.05
+emergencyProb=0.02
+vipProb=0.03
+seed=12
